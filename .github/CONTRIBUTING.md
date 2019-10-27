@@ -11,5 +11,3 @@ Your contributions are always welcome!
 
 
 [awesome-guidelines]: <https://github.com/sindresorhus/awesome/blob/master/contributing.md>
-
-
