@@ -47,7 +47,7 @@ Postman is a tool used to manage your APIs through every stage of the API lifecy
 [github-postmanlabs-postman-collection]:    <https://github.com/postmanlabs/postman-collection>
 [guru99-postman-tutorial]:                  <https://www.guru99.com/postman-tutorial.html>
 [medium-test-fcm-notification]:             <https://medium.com/android-school/test-fcm-notification-with-postman-f91ba08aacc3>
-[medium-lets-fly-with-apis]                 <https://medium.com/android-school/postman-lets-fly-with-apis-48c1a4811c39>
+[medium-lets-fly-with-apis]:                <https://medium.com/android-school/postman-lets-fly-with-apis-48c1a4811c39>
 [medium-top-tutorial]:                      <https://medium.com/quick-code/top-tutorials-to-learn-postman-for-rest-api-testing-3bdf9788e0ba>
 [oreilly-rest-api-automating]:              <https://www.oreilly.com/library/view/rest-api-automation/9781789133813/>
 [sindresorhus]:                             <https://github.com/sindresorhus/awesome>
